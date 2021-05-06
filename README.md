@@ -8,5 +8,5 @@ High Definition RP 11.0.0
 MacOS 10.15.7
 GPU: AMD Radeon Pro 5600M
 
-[![IMAGE ALT TEXT HERE](images/Preview.png)](https://www.youtube.com/watch?v=aJFB2bIbjng)
+[![IMAGE ALT TEXT HERE](images/Preview.png)](https://youtu.be/wX0OXcpOk7g)
 
