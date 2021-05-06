@@ -1,0 +1,9 @@
+.vs/*
+.vsconfig
+Build/*
+Library/*
+Logs/*
+media/*
+obj/*
+Temp/*
+.DS_Store
