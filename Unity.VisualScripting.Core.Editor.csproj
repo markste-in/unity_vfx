@@ -378,8 +378,8 @@
     <Compile Include="Library/PackageCache/com.unity.visualscripting@1.5.2/Editor/VisualScripting.Core/Interface/ListOption.cs" />
     <Compile Include="Library/PackageCache/com.unity.visualscripting@1.5.2/Editor/VisualScripting.Core/Inspection/EventMachineEditor.cs" />
     <Compile Include="Library/PackageCache/com.unity.visualscripting@1.5.2/Editor/VisualScripting.Core/VSEditorSettingsProviderView.cs" />
-    <Compile Include="Library/PackageCache/com.unity.visualscripting@1.5.2/Editor/VisualScripting.Core/Interface/EventWrapper.cs" />
     <Compile Include="Library/PackageCache/com.unity.visualscripting@1.5.2/Editor/VisualScripting.Core/Utilities/AssetBundleUtility.cs" />
+    <Compile Include="Library/PackageCache/com.unity.visualscripting@1.5.2/Editor/VisualScripting.Core/Interface/EventWrapper.cs" />
     <Compile Include="Library/PackageCache/com.unity.visualscripting@1.5.2/Editor/VisualScripting.Core/Inspection/Primitives/DoubleInspector.cs" />
     <Compile Include="Library/PackageCache/com.unity.visualscripting@1.5.2/Editor/VisualScripting.Core/Interface/Fuzzy/IFuzzyOption.cs" />
     <Compile Include="Library/PackageCache/com.unity.visualscripting@1.5.2/Editor/VisualScripting.Core/Analysis/Analysis.cs" />
@@ -475,8 +475,8 @@
     <Compile Include="Library/PackageCache/com.unity.visualscripting@1.5.2/Editor/VisualScripting.Core/Dependencies/ReorderableList/IReorderableListDropTarget.cs" />
     <Compile Include="Library/PackageCache/com.unity.visualscripting@1.5.2/Editor/VisualScripting.Core/Plugin/Changelogs/LegacyLudiqGraphs/Changelog_1_4_2.cs" />
     <Compile Include="Library/PackageCache/com.unity.visualscripting@1.5.2/Editor/VisualScripting.Core/Plugins/ProjectSettingAttribute.cs" />
-    <Compile Include="Library/PackageCache/com.unity.visualscripting@1.5.2/Editor/VisualScripting.Core/Dependencies/SQLite/SQLite.cs" />
     <Compile Include="Library/PackageCache/com.unity.visualscripting@1.5.2/Editor/VisualScripting.Core/Plugin/Changelogs/LegacyLudiqCore/Changelog_1_0_4.cs" />
+    <Compile Include="Library/PackageCache/com.unity.visualscripting@1.5.2/Editor/VisualScripting.Core/Dependencies/SQLite/SQLite.cs" />
     <Compile Include="Library/PackageCache/com.unity.visualscripting@1.5.2/Editor/VisualScripting.Core/Canvases/ICanvas.cs" />
     <Compile Include="Library/PackageCache/com.unity.visualscripting@1.5.2/Editor/VisualScripting.Core/Plugin/Changelogs/LegacyLudiqCore/Changelog_1_3_1.cs" />
     <Compile Include="Library/PackageCache/com.unity.visualscripting@1.5.2/Editor/VisualScripting.Core/Utilities/VSBackupUtility.cs" />

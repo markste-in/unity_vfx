@@ -172,8 +172,8 @@
     <Compile Include="Library/PackageCache/com.unity.shadergraph@11.0.0/Editor/Drawing/Manipulators/Draggable.cs" />
     <Compile Include="Library/PackageCache/com.unity.shadergraph@11.0.0/Editor/Data/Graphs/VirtualTextureMaterialSlot.cs" />
     <Compile Include="Library/PackageCache/com.unity.shadergraph@11.0.0/Editor/Data/Nodes/Input/Geometry/UVNode.cs" />
-    <Compile Include="Library/PackageCache/com.unity.shadergraph@11.0.0/Editor/Drawing/Views/IdentifierField.cs" />
     <Compile Include="Library/PackageCache/com.unity.shadergraph@11.0.0/Editor/Data/Interfaces/IMayRequireVertexColor.cs" />
+    <Compile Include="Library/PackageCache/com.unity.shadergraph@11.0.0/Editor/Drawing/Views/IdentifierField.cs" />
     <Compile Include="Library/PackageCache/com.unity.shadergraph@11.0.0/Editor/Extensions/StencilExtensions.cs" />
     <Compile Include="Library/PackageCache/com.unity.shadergraph@11.0.0/Editor/Data/Nodes/Artistic/Adjustment/HueNode.cs" />
     <Compile Include="Library/PackageCache/com.unity.shadergraph@11.0.0/Editor/Data/Util/FunctionRegistry.cs" />
@@ -199,8 +199,8 @@
     <Compile Include="Library/PackageCache/com.unity.shadergraph@11.0.0/Editor/Data/Nodes/Input/Scene/CameraNode.cs" />
     <Compile Include="Library/PackageCache/com.unity.shadergraph@11.0.0/Editor/Generation/Descriptors/StencilDescriptor.cs" />
     <Compile Include="Library/PackageCache/com.unity.shadergraph@11.0.0/Editor/Drawing/SearchWindowProvider.cs" />
-    <Compile Include="Library/PackageCache/com.unity.shadergraph@11.0.0/Editor/Data/Legacy/UnlitMasterNode1.cs" />
     <Compile Include="Library/PackageCache/com.unity.shadergraph@11.0.0/Editor/Generation/Contexts/TargetPropertyGUIContext.cs" />
+    <Compile Include="Library/PackageCache/com.unity.shadergraph@11.0.0/Editor/Data/Legacy/UnlitMasterNode1.cs" />
     <Compile Include="Library/PackageCache/com.unity.shadergraph@11.0.0/Editor/Drawing/ViewModels/SGViewModel.cs" />
     <Compile Include="Library/PackageCache/com.unity.shadergraph@11.0.0/Editor/Drawing/Inspector/PropertyDrawers/SampleVirtualTextureNodePropertyDrawer.cs" />
     <Compile Include="Library/PackageCache/com.unity.shadergraph@11.0.0/Editor/Generation/Collections/IncludeCollection.cs" />

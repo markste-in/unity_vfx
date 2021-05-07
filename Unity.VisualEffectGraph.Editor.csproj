@@ -369,9 +369,9 @@
     <Compile Include="Library/PackageCache/com.unity.visualeffectgraph@11.0.0/Editor/Models/Contexts/VFXOutputUpdate.cs" />
     <Compile Include="Library/PackageCache/com.unity.visualeffectgraph@11.0.0/Editor/Models/Contexts/Implementations/VFXPlanarPrimitiveHelper.cs" />
     <Compile Include="Library/PackageCache/com.unity.visualeffectgraph@11.0.0/Editor/Expressions/VFXExpressionSampleTexture2D.cs" />
-    <Compile Include="Library/PackageCache/com.unity.visualeffectgraph@11.0.0/Editor/GraphView/Views/Properties/ColorPropertyRM.cs" />
     <Compile Include="Library/PackageCache/com.unity.visualeffectgraph@11.0.0/Editor/Models/Blocks/Implementations/Collision/CollisionAABox.cs" />
     <Compile Include="Library/PackageCache/com.unity.visualeffectgraph@11.0.0/Editor/VisualElementExtensions.cs" />
+    <Compile Include="Library/PackageCache/com.unity.visualeffectgraph@11.0.0/Editor/GraphView/Views/Properties/ColorPropertyRM.cs" />
     <Compile Include="Library/PackageCache/com.unity.visualeffectgraph@11.0.0/Editor/Models/Blocks/Implementations/Position/PositionTorus.cs" />
     <Compile Include="Library/PackageCache/com.unity.visualeffectgraph@11.0.0/Editor/GraphView/Controllers/Controller.cs" />
     <Compile Include="Library/PackageCache/com.unity.visualeffectgraph@11.0.0/Editor/Types/VFXTorusGizmos.cs" />
